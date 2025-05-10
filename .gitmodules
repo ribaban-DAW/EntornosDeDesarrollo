@@ -1,0 +1,3 @@
+[submodule "PGE"]
+	path = PGE
+	url = ../PGE.git
