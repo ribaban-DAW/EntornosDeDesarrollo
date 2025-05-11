@@ -1,0 +1,10 @@
+Crea el diagrama de clases asociado a la siguiente especificación:
+
+-  Queremos representar información acerca de los objetos encontrados durante diversas excavaciones arqueológicas. 
+-  Una excavación siempre se lleva a cabo sobre un sitio arqueológico.
+-  Se encuentran objetos que pueden ser completos o fragmentados.
+-  Cada objeto es identificado por un código, se le asigna una datación, unas dimensiones, una descripción,
+	y está hecho de un material determinado.
+-  Un objeto completo tiene un uso y puede estar compuesto de otros objetos, que pueden estar completos o bien
+	ser fragmentos.
+-  También queremos registrar posibles similitudes entre objetos.
