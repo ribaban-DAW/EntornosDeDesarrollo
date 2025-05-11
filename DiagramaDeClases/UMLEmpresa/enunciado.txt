@@ -1,0 +1,14 @@
+Una aplicación necesita guardar información sobre empresas, de las cuales queremos saber su CIF y su nombre.
+
+También vamos a guardar la información sobre empleados y clientes. Ambos van a tener un nombre y una fecha de
+nacimiento y la edad se calculará mediante un método.
+
+De los empleados también queremos saber su salario y su saldo en la cuenta corriente. Tendrá un método cobrar
+el cual incrementará el saldo de la cuenta en el salario correspondiente.
+
+De los clientes necesito saber un teléfono de contacto y una dirección de envío.
+
+Los empleados se dividen en directivos y trabajadores. De los directivos se quiere saber el área del que son
+directivos y de los trabajadores su titulación y su campo de trabajo.
+
+Los directivos dirigen/mandan sobre empleados (que pueden ser trabajadores o directivos).
