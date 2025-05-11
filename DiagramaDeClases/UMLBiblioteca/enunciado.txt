@@ -1,0 +1,15 @@
+Una biblioteca contiene libros (es un título no un libro físico). Un libro se caracteriza por su
+ISBN, nombre, tipo, editorial, año y autor.
+
+Los autores se caracterizan por su nombre, nacionalidad y fecha de nacimiento.
+
+De los libros tenemos ejemplares,  de los cuales queremos saber qué número de ejemplar es y en
+qué estado se encuentra (biblioteca, prestado, en reparación)
+
+Cada libro se presta por 30 días, en caso de devolverlo más tarde, se penaliza con dos días sin
+poder sacar libro por cada día de retraso.
+
+Del lector se quiere saber su nombre y su estado (activo o multado).
+
+Especifica un conjunto de métodos para estos objetos  de forma que un lector pueda tomar prestado
+un ejemplar y devolverlo.
